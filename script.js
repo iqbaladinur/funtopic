@@ -45,7 +45,7 @@ function getRandomTopic() {
 function displayTopic(topic) {
   cardTitle.textContent = topic.title;
   cardDescription.textContent = topic.description;
-  cardImg.src = topic.image;
+  cardImg.innerText = topic.image;
   // Set cardImgContainer to a random background color
   cardImgContainer.style.backgroundColor = getRandomColor();
 }
