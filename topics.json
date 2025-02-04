@@ -1,0 +1,505 @@
+{
+    "topics": [
+      {
+        "title": "Sarapan Pagi",
+        "description": "Ngobrol tentang menu sarapan favorit, dari bubur hingga roti bakar, sambil menikmati pagi ceria.",
+        "image": "https://img.icons8.com/color/48/000000/breakfast.png"
+      },
+      {
+        "title": "Ngopi Pagi",
+        "description": "Cerita pagi sambil ngopi, bahas kopi tubruk, espresso, atau kopi susu yang jadi ritual harian.",
+        "image": "https://img.icons8.com/color/48/000000/coffee.png"
+      },
+      {
+        "title": "Jalan Pagi",
+        "description": "Bincang ringan soal olahraga pagi, jalan santai di sekitar lingkungan, dan udara segar pagi hari.",
+        "image": "https://img.icons8.com/color/48/000000/walking.png"
+      },
+      {
+        "title": "Baca Berita Pagi",
+        "description": "Ngobrol tentang berita terkini, update politik, dan peristiwa hangat sambil menikmati sarapan.",
+        "image": "https://img.icons8.com/color/48/000000/newspaper.png"
+      },
+      {
+        "title": "Belanja Online",
+        "description": "Ceritain pengalaman belanja online, dari diskon menarik hingga ulasan produk yang lucu.",
+        "image": "https://img.icons8.com/color/48/000000/shopping-cart.png"
+      },
+      {
+        "title": "Curhat Harian",
+        "description": "Ruang untuk berbagi cerita, suka dan duka, serta obrolan ringan antar teman.",
+        "image": "https://img.icons8.com/color/48/000000/chat.png"
+      },
+      {
+        "title": "Nonton TV",
+        "description": "Bahas acara TV favorit, drama, atau berita dengan candaan khas sehari-hari.",
+        "image": "https://img.icons8.com/color/48/000000/tv.png"
+      },
+      {
+        "title": "Main Game",
+        "description": "Cerita seru tentang game mobile atau konsol yang lagi hits, sambil berbagi tips dan trik.",
+        "image": "https://img.icons8.com/color/48/000000/game-controller.png"
+      },
+      {
+        "title": "Nge-gym",
+        "description": "Bincang tentang rutinitas olahraga, gym, atau latihan ringan di rumah, plus tips motivasi.",
+        "image": "https://img.icons8.com/color/48/000000/dumbbell.png"
+      },
+      {
+        "title": "Ngobrol di Warung Kopi",
+        "description": "Cerita santai di warung kopi, membahas gosip lokal dan secangkir kopi hangat.",
+        "image": "https://img.icons8.com/color/48/000000/coffee-cup.png"
+      },
+      {
+        "title": "Dengerin Podcast",
+        "description": "Sharing rekomendasi podcast seru, mulai dari motivasi hingga cerita lucu kehidupan sehari-hari.",
+        "image": "https://img.icons8.com/color/48/000000/headphones.png"
+      },
+      {
+        "title": "Ngemil Sore",
+        "description": "Bincang tentang cemilan favorit di sore hari, seperti keripik atau kue tradisional.",
+        "image": "https://img.icons8.com/color/48/000000/chips.png"
+      },
+      {
+        "title": "Makan Siang Bareng Teman",
+        "description": "Obrolan seru saat makan siang bersama, dari warung nasi hingga kafe hits.",
+        "image": "https://img.icons8.com/color/48/000000/group.png"
+      },
+      {
+        "title": "Ngobrol Tentang Politik",
+        "description": "Obrolan santai tentang politik lokal dengan cara yang ringan dan penuh canda.",
+        "image": "https://img.icons8.com/color/48/000000/parliament.png"
+      },
+      {
+        "title": "Update Sosial Media",
+        "description": "Ceritain apa yang lagi viral atau update status lucu di media sosial.",
+        "image": "https://img.icons8.com/color/48/000000/instagram-new.png"
+      },
+      {
+        "title": "Ngopi Sore di Kafe",
+        "description": "Momen santai sore di kafe sambil menikmati kopi dan obrolan mendalam.",
+        "image": "https://img.icons8.com/color/48/000000/coffee-to-go.png"
+      },
+      {
+        "title": "Ngecek WhatsApp",
+        "description": "Cek chat, status, dan cerita kocak dari teman-teman di WhatsApp.",
+        "image": "https://img.icons8.com/color/48/000000/whatsapp.png"
+      },
+      {
+        "title": "Nonton Film di Bioskop",
+        "description": "Bincang tentang film terbaru yang ditonton di bioskop, lengkap dengan popcorn.",
+        "image": "https://img.icons8.com/color/48/000000/popcorn.png"
+      },
+      {
+        "title": "Dengerin Musik di Mobil",
+        "description": "Obrolan tentang lagu favorit sambil jalan-jalan dengan iringan musik asik.",
+        "image": "https://img.icons8.com/color/48/000000/music.png"
+      },
+      {
+        "title": "Main Bola Bareng Teman",
+        "description": "Ngobrol santai tentang pertandingan sepak bola lokal, sambil bercanda tentang jagoan sendiri.",
+        "image": "https://img.icons8.com/color/48/000000/soccer-ball.png"
+      },
+      {
+        "title": "Belajar Bahasa Asing",
+        "description": "Cerita seru saat belajar bahasa baru, mulai dari aksen lucu hingga kesalahan kocak.",
+        "image": "https://img.icons8.com/color/48/000000/language.png"
+      },
+      {
+        "title": "Masak Makan Malam",
+        "description": "Obrolan tentang resep dan tips memasak, serta cerita lucu di dapur.",
+        "image": "https://img.icons8.com/color/48/000000/chef-hat.png"
+      },
+      {
+        "title": "Curhat Tentang Cinta",
+        "description": "Berbagi cerita tentang asmara, gebetan, dan kisah cinta yang menggelitik.",
+        "image": "https://img.icons8.com/color/48/000000/heart.png"
+      },
+      {
+        "title": "Baca Komik",
+        "description": "Diskusi tentang komik favorit, karakter unik, dan cerita lucu di setiap panelnya.",
+        "image": "https://img.icons8.com/color/48/000000/comic-book.png"
+      },
+      {
+        "title": "Main TikTok",
+        "description": "Bincang tentang tren TikTok terbaru, tantangan viral, dan video kocak.",
+        "image": "https://img.icons8.com/color/48/000000/tiktok.png"
+      },
+      {
+        "title": "Ngobrol Tentang Olahraga",
+        "description": "Obrolan ringan tentang cabang olahraga yang lagi hits dan tips olahraga harian.",
+        "image": "https://img.icons8.com/color/48/000000/athletic.png"
+      },
+      {
+        "title": "Ngetik Meme Lucu",
+        "description": "Cerita seru di balik meme-meme yang bikin ngakak dan viral di internet.",
+        "image": "https://img.icons8.com/color/48/000000/happy.png"
+      },
+      {
+        "title": "Belajar Online",
+        "description": "Ngobrol tentang kelas online, webinar, dan tips belajar dari rumah.",
+        "image": "https://img.icons8.com/color/48/000000/laptop.png"
+      },
+      {
+        "title": "Ngopi Malam di Kafe",
+        "description": "Suasana santai malam hari di kafe dengan obrolan hangat dan kopi istimewa.",
+        "image": "https://img.icons8.com/color/48/000000/coffee-bean.png"
+      },
+      {
+        "title": "Nonton Serial di Netflix",
+        "description": "Diskusi seru tentang serial atau film yang lagi hits di platform streaming.",
+        "image": "https://img.icons8.com/color/48/000000/tv.png"
+      },
+      {
+        "title": "Ngemil Malam",
+        "description": "Obrolan tentang cemilan favorit saat lembur atau nonton film di malam hari.",
+        "image": "https://img.icons8.com/color/48/000000/cookie.png"
+      },
+      {
+        "title": "Ngobrol Tentang Teknologi",
+        "description": "Bincang tentang gadget terbaru, aplikasi unik, dan berita teknologi terkini.",
+        "image": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+      },
+      {
+        "title": "Update Status Media Sosial",
+        "description": "Cerita tentang update status, postingan lucu, dan reaksi teman-teman di dunia maya.",
+        "image": "https://img.icons8.com/color/48/000000/smartphone.png"
+      },
+      {
+        "title": "Ngecek Instagram",
+        "description": "Ngobrol tentang feed Instagram, story seru, dan tren hashtag kekinian.",
+        "image": "https://img.icons8.com/color/48/000000/instagram-new.png"
+      },
+      {
+        "title": "Bincang Santai dengan Teman",
+        "description": "Obrolan ringan sambil nongkrong, berbagi cerita dan tawa bareng teman dekat.",
+        "image": "https://img.icons8.com/color/48/000000/chat--v1.png"
+      },
+      {
+        "title": "Mendengarkan Radio",
+        "description": "Cerita tentang stasiun radio favorit dan lagu-lagu nostalgia yang mengiringi hari.",
+        "image": "https://img.icons8.com/color/48/000000/radio.png"
+      },
+      {
+        "title": "Main Puzzle",
+        "description": "Bincang santai sambil mengasah otak dengan teka-teki dan puzzle seru.",
+        "image": "https://img.icons8.com/color/48/000000/puzzle.png"
+      },
+      {
+        "title": "Curhat di Grup WhatsApp",
+        "description": "Cerita seru dan gosip kocak yang terjadi di grup chat bersama teman-teman.",
+        "image": "https://img.icons8.com/color/48/000000/groups.png"
+      },
+      {
+        "title": "Baca Buku Favorit",
+        "description": "Diskusi ringan tentang buku yang menginspirasi, cerita fiksi, atau biografi unik.",
+        "image": "https://img.icons8.com/color/48/000000/book.png"
+      },
+      {
+        "title": "Ngobrol Tentang Hobi",
+        "description": "Cerita tentang hobi sehari-hari, dari berkebun hingga main musik, dengan canda tawa.",
+        "image": "https://img.icons8.com/color/48/000000/hobby.png"
+      },
+      {
+        "title": "Nonton Video YouTube",
+        "description": "Bincang tentang video viral, channel favorit, dan konten YouTube yang menghibur.",
+        "image": "https://img.icons8.com/color/48/000000/youtube-play.png"
+      },
+      {
+        "title": "Ngobrol Tentang Cuaca",
+        "description": "Obrolan ringan tentang kondisi cuaca hari ini, hujan atau cerah, sambil bercanda.",
+        "image": "https://img.icons8.com/color/48/000000/partly-cloudy-day.png"
+      },
+      {
+        "title": "Update Berita Sehari-hari",
+        "description": "Cerita ringan tentang kejadian hari ini, mulai dari hal kecil hingga berita unik.",
+        "image": "https://img.icons8.com/color/48/000000/news.png"
+      },
+      {
+        "title": "Dengerin Lagu Lama",
+        "description": "Nostalgia dengan lagu-lagu lama yang membawa kenangan masa kecil dan remaja.",
+        "image": "https://img.icons8.com/color/48/000000/vinyl-record.png"
+      },
+      {
+        "title": "Bincang Tentang Kuliner",
+        "description": "Obrolan santai tentang makanan enak, jajanan kaki lima, dan resep turun-temurun.",
+        "image": "https://img.icons8.com/color/48/000000/meal.png"
+      },
+      {
+        "title": "Ngobrol Tentang Film",
+        "description": "Diskusi ringan tentang film terbaru atau film klasik yang pernah ditonton bersama.",
+        "image": "https://img.icons8.com/color/48/000000/movie.png"
+      },
+      {
+        "title": "Belajar Resep Baru",
+        "description": "Berbagi tips memasak dan resep rahasia yang bikin makan malam jadi spesial.",
+        "image": "https://img.icons8.com/color/48/000000/recipe.png"
+      },
+      {
+        "title": "Ngopi Sambil Baca Koran",
+        "description": "Momen santai sambil menikmati kopi dan membaca koran untuk update informasi.",
+        "image": "https://img.icons8.com/color/48/000000/coffee-cup.png"
+      },
+      {
+        "title": "Ngobrol Tentang Wisata",
+        "description": "Bincang ringan tentang tempat wisata lokal, rekomendasi liburan, dan cerita jalan-jalan.",
+        "image": "https://img.icons8.com/color/48/000000/travel.png"
+      },
+      {
+        "title": "Bincang Tentang Musik",
+        "description": "Obrolan tentang genre musik favorit, konser seru, dan lagu yang selalu mengena.",
+        "image": "https://img.icons8.com/color/48/000000/musical-notes.png"
+      },
+      {
+        "title": "Main Game Mobile",
+        "description": "Ceritakan pengalaman main game di smartphone, dari strategi hingga game santai.",
+        "image": "https://img.icons8.com/color/48/000000/mobile-game.png"
+      },
+      {
+        "title": "Ngobrol Tentang Gadget",
+        "description": "Bincang tentang gadget terbaru, smartphone canggih, dan teknologi yang mempermudah hidup.",
+        "image": "https://img.icons8.com/color/48/000000/smartphone-tablet.png"
+      },
+      {
+        "title": "Curhat Tentang Pekerjaan",
+        "description": "Cerita seputar dunia kerja, tantangan kantor, dan momen lucu di lingkungan profesional.",
+        "image": "https://img.icons8.com/color/48/000000/briefcase.png"
+      },
+      {
+        "title": "Nonton Live Streaming",
+        "description": "Ngobrol tentang acara live streaming, gamers, dan influencer yang lagi naik daun.",
+        "image": "https://img.icons8.com/color/48/000000/live-tv.png"
+      },
+      {
+        "title": "Baca Artikel Blog",
+        "description": "Diskusi santai tentang artikel menarik di blog, tips hidup, dan cerita inspiratif.",
+        "image": "https://img.icons8.com/color/48/000000/blog.png"
+      },
+      {
+        "title": "Ngopi Bareng Rekan Kerja",
+        "description": "Cerita ringan seputar momen kopi bareng rekan kerja yang penuh keakraban.",
+        "image": "https://img.icons8.com/color/48/000000/conference-call.png"
+      },
+      {
+        "title": "Ngobrol Tentang Anak Muda",
+        "description": "Obrolan hangat tentang gaya hidup anak muda, tren baru, dan cerita kampung halaman.",
+        "image": "https://img.icons8.com/color/48/000000/teenager.png"
+      },
+      {
+        "title": "Ngetik Cerita Lucu",
+        "description": "Berbagi cerita lucu, meme, atau kejadian kocak yang terjadi di kehidupan sehari-hari.",
+        "image": "https://img.icons8.com/color/48/000000/typing.png"
+      },
+      {
+        "title": "Curhat di Media Sosial",
+        "description": "Bincang tentang postingan viral, komentar kocak, dan cerita seru dari dunia maya.",
+        "image": "https://img.icons8.com/color/48/000000/social-media.png"
+      },
+      {
+        "title": "Ngobrol Tentang Tren Fashion",
+        "description": "Diskusi ringan soal fashion, style kekinian, dan tips berpakaian yang stylish.",
+        "image": "https://img.icons8.com/color/48/000000/t-shirt.png"
+      },
+      {
+        "title": "Belanja di Pasar Tradisional",
+        "description": "Cerita seru tentang belanja di pasar, tawar-menawar, dan suasana khas lokal.",
+        "image": "https://img.icons8.com/color/48/000000/market.png"
+      },
+      {
+        "title": "Ngobrol Tentang Selebriti",
+        "description": "Bincang tentang kabar selebriti, gosip ringan, dan tren hiburan lokal.",
+        "image": "https://img.icons8.com/color/48/000000/star.png"
+      },
+      {
+        "title": "Ngopi di Teras Rumah",
+        "description": "Momen santai di teras rumah, menikmati angin sore dan obrolan ringan.",
+        "image": "https://img.icons8.com/color/48/000000/home.png"
+      },
+      {
+        "title": "Bincang Tentang Film Horor",
+        "description": "Diskusi seru tentang film horor, cerita mistis, dan pengalaman menyeramkan.",
+        "image": "https://img.icons8.com/color/48/000000/ghost.png"
+      },
+      {
+        "title": "Ngobrol Tentang Musik Dangdut",
+        "description": "Obrolan tentang irama dangdut, penyanyi legendaris, dan momen goyang yang asyik.",
+        "image": "https://img.icons8.com/color/48/000000/dance.png"
+      },
+      {
+        "title": "Baca Komik Online",
+        "description": "Cerita ringan tentang komik digital, karakter unik, dan plot yang bikin penasaran.",
+        "image": "https://img.icons8.com/color/48/000000/comics.png"
+      },
+      {
+        "title": "Curhat Tentang Persahabatan",
+        "description": "Bincang hangat tentang arti persahabatan, momen bahagia, dan kenangan bersama sahabat.",
+        "image": "https://img.icons8.com/color/48/000000/friends.png"
+      },
+      {
+        "title": "Ngobrol Tentang Bisnis",
+        "description": "Cerita seputar dunia bisnis, startup, dan inspirasi untuk wirausaha muda.",
+        "image": "https://img.icons8.com/color/48/000000/business.png"
+      },
+      {
+        "title": "Ngecek Email",
+        "description": "Obrolan ringan tentang email masuk, notifikasi penting, dan momen 'spam' yang lucu.",
+        "image": "https://img.icons8.com/color/48/000000/email.png"
+      },
+      {
+        "title": "Ngopi di Pagi Hari",
+        "description": "Cerita pagi penuh semangat dengan kopi hangat dan obrolan yang menyejukkan hati.",
+        "image": "https://img.icons8.com/color/48/000000/coffee-bean.png"
+      },
+      {
+        "title": "Nonton Acara Komedi",
+        "description": "Bincang santai tentang acara komedi, stand-up, atau pertunjukan yang bikin ketawa.",
+        "image": "https://img.icons8.com/color/48/000000/clown.png"
+      },
+      {
+        "title": "Main Board Game",
+        "description": "Cerita seru tentang game papan, strategi lucu, dan momen keakraban keluarga atau teman.",
+        "image": "https://img.icons8.com/color/48/000000/board-game.png"
+      },
+      {
+        "title": "Ngobrol Tentang Teknologi Baru",
+        "description": "Diskusi tentang gadget dan inovasi terbaru yang lagi nge-trend di dunia teknologi.",
+        "image": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+      },
+      {
+        "title": "Curhat Tentang Keluarga",
+        "description": "Obrolan hangat seputar kisah keluarga, cerita lucu, dan momen tak terlupakan bersama orang tercinta.",
+        "image": "https://img.icons8.com/color/48/000000/family.png"
+      },
+      {
+        "title": "Ngecek Notifikasi",
+        "description": "Cerita ringan tentang notifikasi yang masuk, dari yang penting sampai yang bikin geli.",
+        "image": "https://img.icons8.com/color/48/000000/notification.png"
+      },
+      {
+        "title": "Bincang Santai di Kafe",
+        "description": "Momen ngobrol santai di kafe dengan teman, ditemani kopi dan camilan enak.",
+        "image": "https://img.icons8.com/color/48/000000/cafe.png"
+      },
+      {
+        "title": "Ngobrol Tentang Olahraga Favorit",
+        "description": "Obrolan seru tentang tim dan cabang olahraga yang paling disukai, dengan semangat penuh tawa.",
+        "image": "https://img.icons8.com/color/48/000000/trophy.png"
+      },
+      {
+        "title": "Curhat Tentang Hari yang Sibuk",
+        "description": "Bincang tentang kesibukan hari ini, tantangan, dan cara melepas stres dengan humor.",
+        "image": "https://img.icons8.com/color/48/000000/clock.png"
+      },
+      {
+        "title": "Ngobrol Tentang Hobi Memasak",
+        "description": "Cerita seru tentang eksperimen dapur, resep baru, dan momen masak bareng keluarga.",
+        "image": "https://img.icons8.com/color/48/000000/chef-hat.png"
+      },
+      {
+        "title": "Main Game Klasik",
+        "description": "Nostalgia dengan game klasik yang pernah jadi favorit masa kecil, lengkap dengan kenangan manis.",
+        "image": "https://img.icons8.com/color/48/000000/arcade.png"
+      },
+      {
+        "title": "Nonton Berita Malam",
+        "description": "Obrolan tentang berita malam hari, program TV terkini, dan komentar ringan tentang isu hari ini.",
+        "image": "https://img.icons8.com/color/48/000000/tv.png"
+      },
+      {
+        "title": "Curhat Tentang Pengalaman Aneh",
+        "description": "Cerita-cerita unik dan kocak tentang kejadian aneh yang pernah dialami, bikin geleng-geleng kepala.",
+        "image": "https://img.icons8.com/color/48/000000/surprise.png"
+      },
+      {
+        "title": "Ngobrol Tentang Kesehatan",
+        "description": "Bincang ringan tentang tips hidup sehat, olahraga, dan resep rahasia menjaga stamina.",
+        "image": "https://img.icons8.com/color/48/000000/heart-health.png"
+      },
+      {
+        "title": "Bincang Tentang Motivasi",
+        "description": "Cerita inspiratif dan kata-kata motivasi untuk menyemangati hari, dengan sentuhan humor.",
+        "image": "https://img.icons8.com/color/48/000000/motivation.png"
+      },
+      {
+        "title": "Ngobrol Tentang Liburan",
+        "description": "Diskusi tentang rencana liburan, destinasi impian, dan cerita seru dari perjalanan sebelumnya.",
+        "image": "https://img.icons8.com/color/48/000000/vacation.png"
+      },
+      {
+        "title": "Curhat Tentang Cerita Lucu",
+        "description": "Bincang santai sambil berbagi cerita lucu yang bikin perut kram karena ketawa.",
+        "image": "https://img.icons8.com/color/48/000000/lol.png"
+      },
+      {
+        "title": "Ngobrol Tentang Politik Lokal",
+        "description": "Obrolan ringan seputar isu dan dinamika politik di tingkat lokal dengan cara yang santai.",
+        "image": "https://img.icons8.com/color/48/000000/politics.png"
+      },
+      {
+        "title": "Main Aplikasi Sosial",
+        "description": "Cerita tentang aplikasi baru, fitur unik, dan pengalaman seru di dunia digital.",
+        "image": "https://img.icons8.com/color/48/000000/app.png"
+      },
+      {
+        "title": "Ngopi Sambil Baca Novel",
+        "description": "Nikmati kopi sambil larut dalam novel seru, dan bagikan cerita tentang karakter favorit.",
+        "image": "https://img.icons8.com/color/48/000000/book.png"
+      },
+      {
+        "title": "Nonton Video Viral",
+        "description": "Bincang tentang video-video viral yang bikin heboh internet dan komentar kocak di media sosial.",
+        "image": "https://img.icons8.com/color/48/000000/fire.png"
+      },
+      {
+        "title": "Curhat Tentang Rencana Masa Depan",
+        "description": "Obrolan tentang impian, rencana, dan harapan untuk masa depan, dengan semangat positif.",
+        "image": "https://img.icons8.com/color/48/000000/future.png"
+      },
+      {
+        "title": "Ngobrol Tentang Pekerjaan Kantoran",
+        "description": "Cerita seru seputar rutinitas kantor, meeting lucu, dan kisah keseharian di tempat kerja.",
+        "image": "https://img.icons8.com/color/48/000000/office.png"
+      },
+      {
+        "title": "Bincang Tentang Olahraga Ekstrem",
+        "description": "Diskusi ringan tentang olahraga ekstrem, pengalaman mendebarkan, dan tips aman beraksi.",
+        "image": "https://img.icons8.com/color/48/000000/skateboard.png"
+      },
+      {
+        "title": "Ngobrol Tentang Kegiatan Sehari-hari",
+        "description": "Ceritakan rutinitas harian dengan candaan, dari bangun tidur sampai tidur lagi.",
+        "image": "https://img.icons8.com/color/48/000000/routine.png"
+      },
+      {
+        "title": "Curhat Tentang Hati",
+        "description": "Berbagi isi hati dan perasaan dengan teman, obrolan mendalam yang penuh empati.",
+        "image": "https://img.icons8.com/color/48/000000/heart.png"
+      },
+      {
+        "title": "Ngobrol Tentang Kisah Inspiratif",
+        "description": "Cerita inspiratif dari pengalaman hidup, yang memotivasi dan menggerakkan semangat.",
+        "image": "https://img.icons8.com/color/48/000000/inspiration.png"
+      },
+      {
+        "title": "Main Game Strategi",
+        "description": "Bincang tentang game strategi yang menantang pikiran dan mengasah logika.",
+        "image": "https://img.icons8.com/color/48/000000/strategy.png"
+      },
+      {
+        "title": "Ngobrol Tentang Perjalanan",
+        "description": "Cerita perjalanan, liburan seru, dan pengalaman unik di berbagai destinasi.",
+        "image": "https://img.icons8.com/color/48/000000/travel.png"
+      },
+      {
+        "title": "Bincang Tentang Kuliner Lokal",
+        "description": "Diskusi tentang makanan khas daerah, warung legendaris, dan resep turun-temurun yang selalu dirindukan.",
+        "image": "https://img.icons8.com/color/48/000000/meal.png"
+      },
+      {
+        "title": "Curhat Tentang Mimpi dan Harapan",
+        "description": "Obrolan hangat tentang impian, cita-cita, dan harapan untuk masa depan yang lebih baik.",
+        "image": "https://img.icons8.com/color/48/000000/star.png"
+      }
+    ]
+  }
+  
